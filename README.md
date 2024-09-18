@@ -3,7 +3,7 @@
 
 
 I'm a programmer, currently working as a front-end developer. 
-Here you an find my best and worst. Even though I'm a web developer, it's not all about over engineered drawing books! 😙
+Here you can find my best and worst. Even though I'm a web developer, it's not all about over engineered drawing books! 😙
 
 🔧 These are my most used tools:
 
